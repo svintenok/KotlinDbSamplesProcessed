@@ -1,0 +1,4 @@
+database.driver=org.postgresql.Driver
+database.host=
+database.user=
+database.password=
